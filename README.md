@@ -1,4 +1,4 @@
-# Boas vindas ao repositório do projeto Trybers and Dragons!
+<!-- # Boas vindas ao repositório do projeto Trybers and Dragons!
 
 Para realizar o projeto, atente-se a cada passo descrito a seguir, e se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
 
@@ -985,4 +985,4 @@ Algumas dicas se fazem necessárias para completar sua última missão no mundo 
   - Existe uma função chamada `runBattles`, que recebe um `array de Battles` e chama em seu interior o método `battle.fight`;
 </details>
 
----
+--- -->
